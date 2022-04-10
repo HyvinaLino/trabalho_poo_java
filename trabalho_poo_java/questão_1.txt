@@ -1,0 +1,21 @@
+public class MyClass {
+   
+  public static void main(String args[]) {
+      
+     
+   int raio = 12;
+     
+   double area = 3.14;
+     
+   
+ 
+  area = 3.14 * (raio * raio);
+     
+    
+
+ System.out.println("A circunferencia será: "+ area);
+    
+   
+   }
+
+}
